@@ -20,6 +20,7 @@ nav{
 span{
     color: white;
     display: none;
+    cursor: pointer;
 }
 .img-sm{
     display: none;
@@ -52,6 +53,7 @@ input{
     padding: 0.6em;
     font-size: 1.3em;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 #first-input{
